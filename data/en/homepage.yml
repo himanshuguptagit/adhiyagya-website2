@@ -87,8 +87,8 @@ course:
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Click to Join Adhiyagya "
+  title : "Become a member"
   button:
     enable : true
     label : "join now"

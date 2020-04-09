@@ -515,7 +515,7 @@ textarea.form-control {
 @media (max-width: 991px) {
   .header {
     position: static !important;
-    background: #1a1a37; } }
+    background: white; } }
 
 .navigation {
   background-image: linear-gradient(to right, transparent 50%, #81C00E 50%);

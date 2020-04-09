@@ -13,7 +13,8 @@
 .header{
   @include desktop {
     position: static !important;
-    background: $secondary-color;
+    // background: $secondary-color;
+    background: white;
   }
 }
 

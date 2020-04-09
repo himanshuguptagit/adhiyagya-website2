@@ -159,9 +159,9 @@ logo2 = "images/logo-board.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "201, Harsh Bhawan 64-65, New Delhi – 110019"
+mobile = "+91-858 786 1167"
+email = "adhiyagya.ngo@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
