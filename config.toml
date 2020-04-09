@@ -2,7 +2,8 @@
 publishDir = "docs"
 
 ######################## default configuration ####################
-baseURL = "http://adhiyagya.org"
+#baseURL = "http://adhiyagya.org"
+baseURL = "https://himanshuguptagit.github.io/adhiyagya-website2/"
 title = "Adhiyagya"
 theme = "educenter-hugo"
 # post pagination
