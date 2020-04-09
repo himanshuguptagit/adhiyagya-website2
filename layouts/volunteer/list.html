@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+
+
+
+
+
+
+<!-- courses -->
+<section class="section">
+  <div class="container">
+
+    <h1>
+      TMKS
+    </h1>
+    <!-- course list -->
+    <div class="row justify-content-center">
+      <!-- course item -->
+      {{ range .Data.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "course" }}
+      </div>
+      {{ end }}
+    </div>
+    <!-- /course list -->
+  </div>
+</section>
+<!-- /courses -->
+
+
+<section id="volunteers" style="overflow: hidden;">
+
+  <div class="container mb-5">
+    <div id="volunteerList" class="gridder">
+
+    </div>
+
+    <div id="volunteerContent">
+
+    </div>
+  </div>
+
+
+</section>
+
+{{ end }}
