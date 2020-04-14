@@ -1,18 +1,125 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://himanshuguptagit.github.io/adhiyagya-website2/en/sitemap.xml</loc>
-		
-	   	<lastmod>2030-03-09T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://himanshuguptagit.github.io/adhiyagya-website2/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2019-07-06T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/event/event-1/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/categories/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/cause/cause-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/tags/maths/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/cause/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/tags/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/tags/workshop/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/categories/workshop/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/members/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/members/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://himanshuguptagit.github.io/adhiyagya-website2/members/</loc>
+  </url>
+  
+</urlset>

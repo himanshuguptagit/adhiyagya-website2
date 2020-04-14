@@ -1,8 +1,8 @@
 ---
-title: "Our Courses"
+title: "Our Causes"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "images/backgrounds/cause-bg.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "To work towards a brighter future of the children of India, empowering them through education and creating opportunities for them to live a self-made dignified life."
 ---

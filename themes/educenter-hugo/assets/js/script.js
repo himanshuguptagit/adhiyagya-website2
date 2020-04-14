@@ -11,15 +11,15 @@
     if ($('header').offset().top > 10) {
       $('.top-header').addClass('hide');
       $('.navigation').addClass('nav-bg');
-      $('.navbar-logo1').hide();
-      $('.navbar-logo2').show();
       $('.top-hider').addClass('top-height');
+      $('.navbar-logo2').show(0)
+      $('.navbar-logo1').hide(0)
     } else {
       $('.top-header').removeClass('hide');
       $('.navigation').removeClass('nav-bg');
       $('.top-hider').removeClass('top-height');
-      $('.navbar-logo1').show();
-      $('.navbar-logo2').hide('hide');
+      $('.navbar-logo2').hide(0)
+      $('.navbar-logo1').show(0)
     }
   });
 

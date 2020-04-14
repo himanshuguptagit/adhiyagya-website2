@@ -51,6 +51,8 @@ link = "plugins/vendor/aos.css"
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
+link = "plugins/vendor/popper.min.js"
+[[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
@@ -63,8 +65,6 @@ link = "plugins/google-map/gmap.js"
 
 [[params.plugins.js]]
 link = "plugins/gridder/jquery.gridder.min.js"
-[[params.plugins.js]]
-link = "plugins/vendor/popper.min.js"
 [[params.plugins.js]]
 link = "plugins/vendor/jquery-migrate-3.0.1.min.js"
 [[params.plugins.js]]
@@ -89,9 +89,6 @@ link = "plugins/vendor/aos.js"
 
 [[params.plugins.js]]
 link = "plugins/custom/main.js"
-[[params.plugins.js]]
-link = "plugins/custom/volunteer.js"
-
 
 ############################## navigation ###############################
 
@@ -112,8 +109,8 @@ URL = "event"
 weight = 3
 
 [[menu.main]]
-name = "Volunteers"
-URL = "volunteer"
+name = "Team"
+URL = "members"
 weight = 4
 
   
@@ -176,7 +173,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -223,16 +220,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"

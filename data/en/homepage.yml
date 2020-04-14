@@ -121,20 +121,20 @@ funfacts:
   enable : true
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
-      count : "60"
+    - name : "Centers"
+      count : "3"
 
     # funfact item loop
-    - name : "COURSES"
-      count : "50"
+    - name : "Members"
+      count : "200"
 
     # funfact item loop
     - name : "STUDENTS"
-      count : "1000"
+      count : "1500"
 
     # funfact item loop
-    - name : "SATISFIED CLIENT"
-      count : "1400"
+    - name : "Smileys"
+      count : "10000000000"
 
 # funfact is for about page
 

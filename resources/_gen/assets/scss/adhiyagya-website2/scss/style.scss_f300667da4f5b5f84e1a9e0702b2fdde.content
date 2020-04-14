@@ -517,12 +517,19 @@ textarea.form-control {
     position: static !important;
     background: white; } }
 
+.navbar-logo2 {
+  display: none; }
+
 .navigation {
   background-image: linear-gradient(to right, transparent 50%, #81C00E 50%);
   transition: .2s ease; }
   @media (max-width: 575px) {
     .navigation {
-      background-image: linear-gradient(to right, transparent 70%, #81C00E 30%); } }
+      background-image: linear-gradient(to right, transparent 70%, #81C00E 30%); }
+      .navigation .navbar-logo1 {
+        display: none !important; }
+      .navigation .navbar-logo2 {
+        display: block !important; } }
   .navigation img {
     max-height: 64px; }
 
@@ -837,7 +844,7 @@ link:focus,
   height: 90px; }
 
 .bg-footer {
-  background-color: #182b45; }
+  background-color: #1a1a37; }
 
 .logo-footer {
   margin-top: -20px;
