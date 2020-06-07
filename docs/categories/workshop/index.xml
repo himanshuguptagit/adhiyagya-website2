@@ -6,10 +6,19 @@
     <description>Recent content in Workshop on Adhiyagya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://himanshuguptagit.github.io/adhiyagya-website2/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poetry Recitation Competition</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/poetry-recitation-competition/</link>
+      <pubDate>Mon, 29 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/poetry-recitation-competition/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
     
     <item>
       <title>Mental Maths Workshop</title>
@@ -26,6 +35,15 @@
       <pubDate>Wed, 15 Aug 2018 15:27:17 +0600</pubDate>
       
       <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/art-and-craft-workshop/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Summer Workshops 2017</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/summer-workshops-2017/</link>
+      <pubDate>Wed, 10 May 2017 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/summer-workshops-2017/</guid>
       <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

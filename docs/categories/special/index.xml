@@ -20,5 +20,23 @@
       <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
+    <item>
+      <title>Festivities 2017</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/festivities-2017/</link>
+      <pubDate>Tue, 10 Oct 2017 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/festivities-2017/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Career Counselling</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/career-counselling/</link>
+      <pubDate>Sun, 28 May 2017 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/career-counselling/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
   </channel>
 </rss>
