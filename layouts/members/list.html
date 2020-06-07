@@ -1,20 +1,73 @@
 {{ define "main" }}
 
-<!-- volunteers -->
+
+<section class="container img mt-5" style="background-image: url(images/media/volunteer.jpg);">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row d-md-flex">
+    <div class="volunteer ftco-animate">
+      <h3 class="mb-3">How can you help us ?</h3>
+      <div>
+        <p>
+          At Adhiyagya, we are driven by the motive of providing a brighter future to underprivileged children and we welcome spirited individuals who share our passion to come forward and volunteer for the cause of a better tomorrow.
+        </p>
+        <p>
+            You could join us in our effortby devoting your time and volunteering towards the cause of education. By volunteering, we not only invite you to teach at our centres, but also help us in planning and sharing ideas to take our initiative forward
+        </p>
+        <p>
+          We have roles for everyone !!
+        </p>
+        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSexPwOisJUpYDd4td9tU1GvWeRuXlarLsFnnEj4KH2WQtlJkQ/viewform" class="btn btn-primary mt-2">Join us</a></p>
+
+      </div>
+    </div>    			
+    </div>
+  </div>
+</section>
+
+<section class="ftco-section">
+  <div class="container text">
+      <h2>Testimonials</h2>
+      <p>
+          Our volunteers are our strength. Their constant support and enriching inputs have been crucial to take the cause of Adhiyagya forward. We are thankful for their selfless service and dedication.
+      </p>
+      <p>
+          Some of Our members have shared their experiences with us: 
+      </p>
+
+      
+  </div>
+</section>
+
+
+<section class="mt-5" id="volunteers" style="overflow: hidden;">
+
+  <div class="container mb-5">
+    <div id="volunteerList" class="gridder">
+
+    </div>
+
+    <div id="volunteerContent">
+
+    </div>
+  </div>
+
+
+</section>
+
+
+<!-- volunteers
 <section class="section">
   <div class="container">
-    <!-- volunteer list -->
     <div class="row justify-content-center">
-      <!-- volunteer item -->
       {{ range .Data.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "author" }}
       </div>
       {{ end }}
     </div>
-    <!-- /volunteer list -->
   </div>
 </section>
-<!-- /volunteers -->
+/volunteers -->
 
 {{ end }}

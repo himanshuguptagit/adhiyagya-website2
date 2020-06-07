@@ -1,6 +1,7 @@
 ############################## developer options #############3
 publishDir = "docs"
 
+
 ######################## default configuration ####################
 #baseURL = "http://adhiyagya.org"
 baseURL = "https://himanshuguptagit.github.io/adhiyagya-website2/"
@@ -89,6 +90,9 @@ link = "plugins/vendor/aos.js"
 
 [[params.plugins.js]]
 link = "plugins/custom/main.js"
+
+[[params.plugins.js]]
+link = "plugins/custom/volunteer.js"
 
 ############################## navigation ###############################
 

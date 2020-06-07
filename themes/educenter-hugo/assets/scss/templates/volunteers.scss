@@ -1,0 +1,304 @@
+@mixin rowMachine($numPerRow, $margin) {
+  width: ((100% - (($numPerRow - 1) * $margin)) / $numPerRow);
+  &:nth-child(n) {
+    margin-bottom: $margin;
+    margin-right: $margin;
+  }
+  &:nth-of-type(#{$numPerRow}n) {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: 768px) and (max-width: 1024px) {
+      @content;
+  }
+}
+
+@mixin landscapeMobile {
+  @media (min-width: 481px) and (max-width: 767px) {
+      @content;
+  }
+}
+
+@mixin mobile {
+  @media (min-width: 320px) and (max-width: 480px) {
+      @content;
+  }
+}
+
+@mixin max992 {
+  @media (max-width: 992px) {
+      @content;
+  }
+}
+
+@mixin max767 {
+  @media (max-width: 767px) {
+      @content;
+  }
+}
+
+
+@mixin max500 {
+  @media (max-width: 500px) {
+      @content;
+  }
+}
+
+@mixin IEOnly {
+  @media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {
+      @content;
+  }
+}
+
+
+
+// VITAL CSS
+.gridder{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.gridder-list { 
+    display: inline-block;
+    vertical-align: top;
+}
+.gridder-show { 
+    display: block;
+    float: left;
+    width: 100%;
+    position: relative;
+    background: #EEE url('../images/loading-spin.svg') no-repeat center;
+    
+    &.loading{
+        background: #EEE url('../images/loading-spin.svg') no-repeat center;
+    }
+}
+.gridder-content{
+    display: none;
+}
+
+.gridder-list{
+    @include rowMachine(4,1%);
+
+    @include max992{
+        @include rowMachine(3,1%);
+
+    }
+
+    @include max767{
+        @include rowMachine(2,1%);
+    }
+
+
+    @include max500{
+        @include rowMachine(1,1%);
+    }
+
+}
+
+/* */
+.gridder-show{
+    padding: 20px;
+    background: #EEE;
+    margin-bottom: 1%;
+    margin-top: 50px;
+}
+
+.gridder-navigation{
+    display: flex;
+    .gridder-close{
+        order: 3;
+        margin-left: auto;
+    }
+    .gridder-nav{
+        margin-right: 8px;
+        &.disabled{
+            opacity: .5;
+        }
+    }
+}
+
+
+
+.gridder-list{
+    cursor: pointer;
+    &:hover{
+        opacity: .8
+    }
+}
+
+.hasSelectedItem{
+    .gridder-list{
+        opacity: .5;
+        &.selectedItem{
+            opacity: 1;
+        }
+    }
+}
+
+
+// Volunteer card
+// @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+// Variables
+$regal-blue: #034378;
+$san-juan: #2d4e68;
+$bermuda: #77d7b9;
+$white: #fff;
+$black: #000;
+$open-sans: 'Open Sans',
+sans-serif;
+
+// clear-fix mixin
+@mixin cf {
+  &::before,
+  &::after {
+    content: '';
+    display: table;
+  }
+  &::after {
+    clear: both;
+  }
+}
+
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: $open-sans;
+  font-weight: 300;
+}
+
+
+// Base styles
+.card {
+  width: 260px;
+  max-width: 300px;
+  margin-top: 1%;
+
+  @include max992{
+    width: 240;
+    }
+
+  @include max767{
+    width: 240;
+    }
+
+  @include max500{
+      text-align: center;
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+  }
+
+  .wrapper {
+    background-color: $white;
+    min-height: 350px;
+    max-height: 400px;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 19px 38px rgba($black, 0.3), 0 15px 12px rgba($black, 0.2);
+    &:hover {
+      .data {
+        transform: translateY(0);
+      }
+    }
+  }
+
+  .photo{
+      width: 100%;
+
+      img{
+          width: 100%;
+          height: 100%;
+          object-fit: cover;  
+
+            object-position: top;
+            max-height: 350px;
+            min-height: 350px;
+      }
+  }
+
+  .data {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    transform: translateY(calc(60px + 0.5em));
+    transition: transform 0.3s;
+
+    .content {
+      padding: 1em;
+      position: relative;
+      z-index: 1;
+    }
+
+    .author {
+        font-size: 1em;
+      }
+
+    .title {
+        display: block;
+        font-size: 1.5em;
+        // margin-top: 10px;
+    }
+    .text {
+        font-size: 0.9em;
+        height: 60px;
+        margin: 0;
+    }
+
+  }
+
+}
+
+.card-content-image {
+
+  width: 100%;
+  max-height: 400px;
+  overflow: hidden;
+  object-fit: cover;
+  object-position: top;
+
+}
+
+
+// First example styles
+.example-1 {
+  .date {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: $bermuda;
+    color: $white;
+    padding: 0.8em;
+    span {
+      display: block;
+      text-align: center;
+    }
+    .day {
+      font-weight: 700;
+      font-size: 24px;
+      text-shadow: 2px 3px 2px rgba($black, 0.18);
+    }
+    .month {
+      text-transform: uppercase;
+    }
+    .month,
+    .year {
+      font-size: 12px;
+    }
+  }
+  .content {
+    background-color: $white;
+    box-shadow: 0 5px 30px 10px rgba($black, 0.3);
+  }
+  .title {
+    color: lighten($black, 50%);
+  }
+
+}
