@@ -1,9 +1,9 @@
 ---
 title: "Annual Event 2018"
 # Schedule page publish date
-publishDate: "2019-01-01T00:00:00Z"
+publishDate: "2018-03-15T00:00:00Z"
 # event date
-date: "2030-03-09T15:27:17+06:00"
+date: "2018-03-15T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
@@ -42,6 +42,7 @@ speaker:
 
 # type
 type: "event"
+categories: "annual"
 ---
 
 ### About Event

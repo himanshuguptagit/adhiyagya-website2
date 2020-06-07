@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Adhiyagya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2030 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://himanshuguptagit.github.io/adhiyagya-website2/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>annual</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/categories/annual/</link>
+      <pubDate>Fri, 15 Mar 2030 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/categories/annual/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Workshop</title>
@@ -17,6 +26,15 @@
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
       <guid>https://himanshuguptagit.github.io/adhiyagya-website2/categories/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>independence</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/categories/independence/</link>
+      <pubDate>Wed, 15 Aug 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/categories/independence/</guid>
       <description></description>
     </item>
     

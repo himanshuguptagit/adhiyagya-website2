@@ -6,7 +6,7 @@
     <h2>Annual Events</h2>
     <div class="row">
       <!-- event -->
-      {{ range .Data.Pages }}
+      {{ range where .Site.RegularPages "Params.categories" "annual"}}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "event" }}
       </div>
@@ -15,7 +15,7 @@
     <h2>Independence Day Events</h2>
     <div class="row">
       <!-- event -->
-      {{ range .Data.Pages }}
+      {{ range where .Site.RegularPages "Params.categories" "independence"}}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "event" }}
       </div>

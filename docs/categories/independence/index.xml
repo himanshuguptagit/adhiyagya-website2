@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>independence on Adhiyagya</title>
+    <link>https://himanshuguptagit.github.io/adhiyagya-website2/categories/independence/</link>
+    <description>Recent content in independence on Adhiyagya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Aug 2018 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://himanshuguptagit.github.io/adhiyagya-website2/categories/independence/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Independence Day 2017</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2017/</link>
+      <pubDate>Wed, 15 Aug 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2017/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Independence Day 2018</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2018/</link>
+      <pubDate>Wed, 15 Aug 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2018/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>

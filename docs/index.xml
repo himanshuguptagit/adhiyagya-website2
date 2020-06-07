@@ -6,26 +6,17 @@
     <description>Recent content on Adhiyagya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2030 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://himanshuguptagit.github.io/adhiyagya-website2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Annual Event</title>
-      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
+      <title>Annual Event 2019</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2019/</link>
+      <pubDate>Fri, 15 Mar 2030 15:27:17 +0600</pubDate>
       
-      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event/</guid>
-      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Social media and behavior economics conference</title>
-      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/event-1/</link>
-      <pubDate>Sat, 09 Mar 2030 15:27:17 +0600</pubDate>
-      
-      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/event-1/</guid>
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2019/</guid>
       <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
@@ -99,6 +90,42 @@
       
       <guid>https://himanshuguptagit.github.io/adhiyagya-website2/notice/notice-6/</guid>
       <description>About Notice Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Independence Day 2017</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2017/</link>
+      <pubDate>Wed, 15 Aug 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2017/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Independence Day 2018</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2018/</link>
+      <pubDate>Wed, 15 Aug 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2018/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Annual Event 2018</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2018/</link>
+      <pubDate>Thu, 15 Mar 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2018/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Annual Event 2017</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2017/</link>
+      <pubDate>Wed, 15 Feb 2017 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2017/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
