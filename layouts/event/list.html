@@ -3,6 +3,25 @@
 <!-- events -->
 <section class="section">
   <div class="container">
+    <h2>Annual Events</h2>
+    <div class="row">
+      <!-- event -->
+      {{ range .Data.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+    <h2>Independence Day Events</h2>
+    <div class="row">
+      <!-- event -->
+      {{ range .Data.Pages }}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+    <h2>Events</h2>
     <div class="row">
       <!-- event -->
       {{ range .Data.Pages }}

@@ -1,5 +1,5 @@
 ---
-title: "Annual Event"
+title: "Annual Event 1"
 # Schedule page publish date
 publishDate: "2019-01-01T00:00:00Z"
 # event date
