@@ -1,6 +1,6 @@
 ############################## developer options #############3
 publishDir = "docs"
-
+skipHtml = false
 
 ######################## default configuration ####################
 #baseURL = "http://adhiyagya.org"

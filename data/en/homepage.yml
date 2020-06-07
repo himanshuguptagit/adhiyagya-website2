@@ -15,8 +15,8 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "Let us sacrifice out today so that our children can have a better tomorrow"
+      content : "- Dr. APJ Abdul Kalam"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -26,8 +26,8 @@ slider:
         link : "contact"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+    - title : "A child without education is a bird without wings."
+      content : "- Tibetian Proverb"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -67,11 +67,12 @@ banner_feature:
 about:
   enable : true
   title : "Welcome to Adhiyagya"
-  image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
+  image : "images/home/about_right.png"
+  content : "Adhiyagya is an NGO working towards the empowerment of underprivileged children in India through Education. It works as a parallel support system to help under privileged children gain education that is denied to them.
+  
 
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+Adhiyagya started its operations in January 2015 and has worked with over 200 children, continuously striving to bring a constructive difference in their lives.
+  "
   button:
     enable : true
     label : "Learn more"
@@ -99,14 +100,13 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
+  title : "Success Story"
+  content : "Education is not only a right but also an asset that truly empowers people. It can be a solution to most of the problems faced by us in India. Education has the power to make the difference and actually be a force to put an end to the vicious circle of poverty. 
             
             
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  However for that the focus needs to be on ‘Education for all’. To ensure this change it is essential to create opportunity. It is essential to create hopes and dreams. It is essential to create awareness. It is also essential to break all socioeconomic barriers that have formed an adverse outlook in the minds of people since ages."
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  video_link : "https://www.youtube.com/watch?v=2IhZm_rEBk0"
 
 
 ############################# event ################################
@@ -142,6 +142,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
-  title : "Latest News"
+  enable : false
+  title : "Latest Posts"
   # blog item comes from "content/**/blog" folder.
