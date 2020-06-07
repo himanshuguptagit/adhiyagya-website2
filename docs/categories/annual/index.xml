@@ -38,5 +38,14 @@
       <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
+    <item>
+      <title>Annual Event 2016 - Sports Day</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2016/</link>
+      <pubDate>Sun, 10 Apr 2016 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/annual-event-2016/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
   </channel>
 </rss>
