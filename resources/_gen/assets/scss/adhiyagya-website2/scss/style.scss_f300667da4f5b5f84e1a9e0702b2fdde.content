@@ -856,8 +856,7 @@ link:focus,
   display: inline-block; }
 
 .footer {
-  border-color: #494a43 !important;
-  padding-top: 275px; }
+  border-color: #494a43 !important; }
 
 /* /footer */
 .filter-controls li {
