@@ -20,5 +20,14 @@
       <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
+    <item>
+      <title>Art and Craft Workshop</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/art-and-craft-workshop/</link>
+      <pubDate>Wed, 15 Aug 2018 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/art-and-craft-workshop/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
   </channel>
 </rss>
