@@ -21,10 +21,19 @@
       </div>
       {{ end }}
     </div>
-    <h2>Events</h2>
+    <h2>Workshops</h2>
     <div class="row">
       <!-- event -->
-      {{ range .Data.Pages }}
+      {{ range where .Site.RegularPages "Params.categories" "workshop"}}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
+    <h2>Special Events</h2>
+    <div class="row">
+      <!-- event -->
+      {{ range where .Site.RegularPages "Params.categories" "special"}}
       <div class="col-lg-4 col-sm-6 mb-5">
         {{ .Render "event" }}
       </div>
