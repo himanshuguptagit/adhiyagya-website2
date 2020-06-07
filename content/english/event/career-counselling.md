@@ -1,17 +1,17 @@
 ---
-title: "Independence Day 2017"
+title: "Career Counselling"
 # Schedule page publish date
-publishDate: "2017-08-15T00:00:00Z"
+publishDate: "2017-05-28T00:00:00Z"
 # event date
-date: "2017-08-15T15:27:17+06:00"
+date: "2017-05-28T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Adhiyagya celebrated the 72nd Independence Day with a cultural show on the theme 'Aisa Desh Hai Mera'."
-# Event images
-image: "images/events/independence-day-2017/adhiyagya_independence_day_2017_featured_image.jpg"
+description : "A career counseling session was organised at our Sarita Vihar Centre to understand the uniqueness of each child"
+# Event image
+image: "images/events/career-counselling/adhiyagya_career_counselling_featured_image.jpg"
 # location
 location: "New Delhi"
 # entry fee
@@ -42,7 +42,7 @@ speaker:
 
 # type
 type: "event"
-categories: "independence"
+categories: "special"
 ---
 
 ### About Event
