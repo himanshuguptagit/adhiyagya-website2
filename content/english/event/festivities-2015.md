@@ -1,17 +1,17 @@
 ---
-title: "Christmas Celebrations 2016"
+title: "Fesitivities 2015"
 # Schedule page publish date
-publishDate: "2016-12-25T00:00:00Z"
+publishDate: "2015-11-08T00:00:00Z"
 # event date
-date: "2016-12-25T15:27:17+06:00"
+date: "2015-11-08T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Christmas was celebrated at both our centers with a lot of excitement & merriment."
+description : "Diwali was celebrated this year at both our centres with complete traditions and a lot of fun. As per the Adhiyagya"
 # Event image
-image: "images/events/christmas-celebrations-2016/Adhiyagya_Christmas_Celebrations_featured_image.jpg"
+image: "images/events/diwali-celebrations-2015/diwali_featured_image.jpg"
 # location
 location: "New Delhi"
 # entry fee
@@ -42,7 +42,7 @@ speaker:
 
 # type
 type: "event"
-categories: "special"
+categories: "festival"
 ---
 
 ### About Event

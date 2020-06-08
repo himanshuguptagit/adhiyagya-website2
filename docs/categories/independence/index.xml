@@ -38,5 +38,14 @@
       <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
+    <item>
+      <title>Independence Day 2015</title>
+      <link>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2015/</link>
+      <pubDate>Sat, 15 Aug 2015 15:27:17 +0600</pubDate>
+      
+      <guid>https://himanshuguptagit.github.io/adhiyagya-website2/event/independence-day-2015/</guid>
+      <description>About Event Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
   </channel>
 </rss>

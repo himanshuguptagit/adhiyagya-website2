@@ -39,6 +39,15 @@
       </div>
       {{ end }}
     </div>
+    <h2>Festivities</h2>
+    <div class="row">
+      <!-- event -->
+      {{ range where .Site.RegularPages "Params.categories" "festival"}}
+      <div class="col-lg-4 col-sm-6 mb-5">
+        {{ .Render "event" }}
+      </div>
+      {{ end }}
+    </div>
   </div>
 </section>
 <!-- /events -->

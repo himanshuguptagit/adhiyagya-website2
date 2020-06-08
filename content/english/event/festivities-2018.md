@@ -1,17 +1,17 @@
 ---
-title: "Eid Celebrations - 2016"
+title: "Festivities 2018"
 # Schedule page publish date
-publishDate: "2016-07-10T00:00:00Z"
+publishDate: "2018-10-10T00:00:00Z"
 # event date
-date: "2016-07-10T15:27:17+06:00"
+date: "2018-10-10T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Rajasthani Camp, Sarita Vihar & Sector 45, Faridabad Continuing with the tradition of celebrating all "
+description : "A poem recitation competition was conducted at our Faridabad Centre on 29th July 2019"
 # Event image
-image: "images/events/eid-celebrations-2016/featured_image_eid.jpg"
+image: "images/events/festivities-2017/Adhiyagya-Festivities-2017-featured-image.jpg"
 # location
 location: "New Delhi"
 # entry fee
@@ -42,7 +42,7 @@ speaker:
 
 # type
 type: "event"
-categories: "special"
+categories: "festival"
 ---
 
 ### About Event

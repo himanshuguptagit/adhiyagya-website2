@@ -1,17 +1,17 @@
 ---
-title: "Diwali Celebration 2016"
+title: "Festivities 2019"
 # Schedule page publish date
-publishDate: "2016-10-20T00:00:00Z"
+publishDate: "2019-10-10T00:00:00Z"
 # event date
-date: "2016-10-20T15:27:17+06:00"
+date: "2019-10-10T15:27:17+06:00"
 # post save as draft
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Diwali was celebrated this year at both our centres with complete traditions and a lot of fun. As per the Adhiyagya"
+description : "A poem recitation competition was conducted at our Faridabad Centre on 29th July 2019"
 # Event image
-image: "images/events/diwali-2016/Adhiyagya-Diwali_Celebrations_2016_featured_image.jpg"
+image: "images/events/festivities-2017/Adhiyagya-Festivities-2017-featured-image.jpg"
 # location
 location: "New Delhi"
 # entry fee
@@ -42,7 +42,7 @@ speaker:
 
 # type
 type: "event"
-categories: "special"
+categories: "festival"
 ---
 
 ### About Event

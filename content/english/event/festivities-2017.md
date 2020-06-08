@@ -42,7 +42,7 @@ speaker:
 
 # type
 type: "event"
-categories: "special"
+categories: "festival"
 ---
 
 ### About Event
